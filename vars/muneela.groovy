@@ -1,3 +1,3 @@
-def karthik(old,new){
-  echo "Defference of ${old} and ${new} is ${old-new}"
+def add(x,y){
+  echo "Sum of ${x} and ${y} is ${x+y}"
 }
